@@ -1,0 +1,38 @@
+{
+    "product": "Bush 5 4G",
+    "device": "ac50heplus",
+    "board": "ac50heplus",
+    "brand": "Archos",
+    "model": "Bush 5\" 4G",
+    "wifi_ssid": "TP-LINK_YBI7ZX",
+    "android_id": "PPR2.180905.005",
+    "boot_id": "c04acba3-fbde-a41d-e724-4efcd7a7ccb3",
+    "proc_version": "Linux version 4.0.17-7882HzxS (android-build@a3fbdea41de7.source.android.com)",
+    "mac_address": "C0:4A:CB:A3:FB:DE",
+    "ip_address": [
+        188,
+        193,
+        173,
+        242
+    ],
+    "imei": "602865518975209",
+    "incremental": "4071182185",
+    "protocol": 3,
+    "display": "PPR2.180905.005",
+    "finger_print": "Archos/Bush 5 4G/ac50heplus:10/PPR2.180905.005/4071182185:user/release-keys",
+    "baseband": "",
+    "sim": "T-Mobile",
+    "os_type": "android",
+    "bootloader": "U-boot",
+    "wifi_bssid": "C0:4A:CB:A3:FB:DE",
+    "apn": "wifi",
+    "version": {
+        "incremental": "4071182185",
+        "release": "10",
+        "codename": "REL",
+        "sdk": 29
+    },
+    "imsi_md5": "9e6e42f625027bd99a795eb0bbfc5dbc",
+    "vendor_name": "Archos",
+    "vendor_os_name": "android"
+}
